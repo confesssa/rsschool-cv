@@ -16,3 +16,8 @@ When I was in high school, computer science was one of my favorite subjects. One
 ---
 ### **CODE EXAMPLES**
 You can see my code examples on [my GitHub account](https://github.com/confesssa?tab=repositories)
+
+---
+### **EXPERIENCE**
+- [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
