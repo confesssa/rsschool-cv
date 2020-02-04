@@ -21,3 +21,13 @@ You can see my code examples on [my GitHub account](https://github.com/confesssa
 ### **EXPERIENCE**
 - [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+    
+---
+### **EDUCATION**
+- [The Rolling Scopes School](https://rs.school/js/) (I am a student at the moment)
+- [Netology: Presentation design as a form of art](https://netology.ru/courses/dizain-prezentatsii)
+- [Juicy Banners: the basics of Photoshop](https://vk.com/@ilovebanners-sochnye-bannery-kurs-praktikum)
+  
+---
+### **ENGLISH**
+I learnt English at school as anybody else, but didn't use it on a daily basis for a certain amount of time. At the moment I have [a pre-intermediate (A2) level](https://englex.ru/your-level/placement/?answer_id=1917342) of English. I practice English reading articles, listening to podcasts, as well as communicating with foreigners.
