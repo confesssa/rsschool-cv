@@ -30,4 +30,4 @@ You can see my code examples on [my GitHub account](https://github.com/confesssa
   
 ---
 ### **ENGLISH**
-I learnt English at school as anybody else, but didn't use it on a daily basis for a certain amount of time. At the moment I have [a pre-intermediate (A2) level](https://englex.ru/your-level/placement/?answer_id=1917342) of English. I practice English reading articles, listening to podcasts, as well as communicating with foreigners.
+I learnt English at school as anybody else, but didn't use it on a daily basis for a certain amount of time. At the moment I have a pre-intermediate (A2) level of English. I practice English reading articles, listening to podcasts, as well as communicating with foreigners.
