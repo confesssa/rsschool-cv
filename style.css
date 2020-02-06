@@ -4,4 +4,31 @@ body {
     margin: 0 auto;
     border-bottom: 5px solid gray;
     margin-bottom: 30px;
-  }
+}
+
+.page-name {
+    font-size: 30px;
+    text-align: center;
+    padding: 25px 0 10px 25px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+h3 {
+text-transform: uppercase;
+padding: 40px 0 7px 0;
+}
+
+.photo {
+position: absolute;
+top: 100px;
+right: 50px;
+}
+
+header {
+    position: relative;
+}
+
+ul {
+    margin-bottom: 35px;
+}
