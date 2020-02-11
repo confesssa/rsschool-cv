@@ -1,0 +1,33 @@
+# Volha Khviadchenia
+### **CONTACTS**
+- **Phone:** +375 29 523-95-06
+- **Email:** v.khviadchenia@gmail.com
+- **Telegram:** [@confesssa](https://t.me/confesssa)
+  
+---
+### **SUMMARY**
+When I was in high school, computer science was one of my favorite subjects. One day, the teacher gave us a task as homework: to create a sample webpage: I remember that night I could not sleep and spent all the time doing my homework, and in the process I had much fun. Unfortunately after that my life took a different turn, and for a long time my interest were directed to completely different fields. Now, after more than 10 years, I decided to change the field of activity and try myself as a developer, taking that long-forgotten path which had once appeared in my life. At the moment I am a student at RS.School, and I have the ambition of becoming a full-fledged web developer. There is much to do and to learn, but I feel very motivated and ready to face this exciting challenge.
+
+---
+### **SKILLS**
+- **Programming languages:** HTML5, CSS3, Markdown
+- **Tools:** VS Code, Git, Tilda, Photoshop, WhatFont
+  
+---
+### **CODE EXAMPLES**
+You can see my code examples on [my GitHub account](https://github.com/confesssa?tab=repositories)
+
+---
+### **EXPERIENCE**
+- [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+    
+---
+### **EDUCATION**
+- [The Rolling Scopes School](https://rs.school/js/) (I am a student at the moment)
+- [Netology: Presentation design as a form of art](https://netology.ru/courses/dizain-prezentatsii)
+- [Juicy Banners: the basics of Photoshop](https://vk.com/@ilovebanners-sochnye-bannery-kurs-praktikum)
+  
+---
+### **ENGLISH**
+I learnt English at school as anybody else, but didn't use it on a daily basis for a certain amount of time. At the moment I have a pre-intermediate (A2) level of English. I practice English reading articles, listening to podcasts, as well as communicating with foreigners.
